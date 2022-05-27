@@ -226,7 +226,7 @@ pg_ctl: server is running (PID: 29549)
 
 ## Configure services
 
-Here is a simple configuration, can be local and remote connection is ok
+Here is a simple configuration, a basic environment with local and remote connection is ok
 
 
 
@@ -421,19 +421,33 @@ There are installed dependency packages, you can decide whether to uninstall acc
 
  
 
-## Postscript
+## Appendix
 
 
 
-- For more detailed operations, see PostgreSQL.
+- For more detailed operations, see the official PostgreSQL home.
 
 - You can also refer to the IvorySQL source code under the documentation: /root/ivorysql/readme.md.
 
-- You can also open a link to the website:
+- You can also open the below link to the website:
 
-  https://gitee.com/IvorySQL/IvorySQL/blob/master/README.md。
+  https://gitee.com/IvorySQL/IvorySQL/blob/master/README.md
 
-- If you have any question, welcome to the official community IvorySQL warehouse: **github.com/IvorySQL/IvorySQL**  submit issue.
+- If you have any questions, it would be appreciated to submit issues on GitHub IvorySQL home **github.com/IvorySQL/IvorySQL**.
+
+## About IvorySQL
+
+The IvorySQL project is a Postgres open-source derivative project with a broad ecological foundation and Chinese characteristics.
+
+It is an open source database designed and developed by Highgo software with Oracle compatibility features, high compatibility and high availability, and commitment to adherence to open-source ways
+
+Community repository: [github.com/IvorySQL/IvorySQL](https://github.com/IvorySQL/IvorySQL)
+
+CSDN: [IvorySQL](https://blog.csdn.net/ivorysql)
+
+Open Source China: [IvorySQL](https://my.oschina.net/u/5729420)
+
+Modb: [IvorySQL](https://www.modb.pro/u/471017)
 
  
 
